@@ -1,6 +1,5 @@
 # Project_1
 
-
 Areas of Interest:
   1. Space
       a.) Planets (could be potential life on planets) - Micah
