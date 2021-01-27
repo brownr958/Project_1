@@ -6,13 +6,9 @@ Nasa Exoplanets : Folder containing images for planets Kepler-155c and Kepler 14
 
 _pycache_: Contains configurations  for python
 
-countries.png: Bar graph that contains information about countries and their contributions to exoplanet discovery 
-
 Main.ipynb : Jupyter notebook where the grouped data is stored and waas presented from. 
 
 NASAPHL.csv : Table containing data used for the creation of ranges and determing of planets in those ranges. 
-
-Observations.png :  observatories and their number of discoveries. 
 
 PHL Habitable Exoplanets.csv: List containing the planets and information from the PHL database.
 
