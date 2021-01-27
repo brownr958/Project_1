@@ -1,4 +1,5 @@
-# Project_1
+# Project_1: Exxoplanet Analysis
+
 ipynb checkpoints: Save files for each date the files in hupyter notebook were saved. 
 
 Nasa Exoplanets : Folder containing images for planets Kepler-155c and Kepler 1455 b 
