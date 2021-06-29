@@ -1,21 +1,5 @@
-# Project_1: Exxoplanet Analysis
+#  Exxoplanet Analysis
 
-ipynb checkpoints: Save files for each date the files in jupyter notebook were saved. 
-
-Nasa Exoplanets : Folder containing images for planets Kepler-155c and Kepler 1455 b 
-
-_pycache_: Contains configurations  for python
-
-Main.ipynb : Jupyter notebook where the grouped data is stored and waas presented from. 
-
-NASAPHL.csv : Table containing data used for the creation of ranges and determining of planets in those ranges. 
-
-PHL Habitable Exoplanets.csv: List containing the planets and information from the PHL database.
-
-Project Proposal.docx: Information on project and questions pertaining to it. 
-
-config.py: Configurations for api keys
-
-debug.log: Log for changes in repo 
-
-facility_data_locations.csv: CSV for the facility data, latitude, lonngitude, and country. 
+ Looking up into the night sky puts things into perspective of how special or perhaps isifnificant we are on our little planet. We wanted to see for ourselves what NASA has been doing to answer this question on just how unique pur planet is. NASA has been interested in this for a long time and has several resources arond the world looking costantly into space finding earth like planets and recording them. So lets look and see what some of the most special and most intelligent people have uncovered so far. 
+ 
+ 
