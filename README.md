@@ -20,3 +20,7 @@ Once the tables had been merged, and the writing of some conditionals, we determ
 
 
 Lastly we made some simple graphs that showed correlations of planets from the  PSL database and some other factors  present in the main NASA database. 
+
+![image](https://user-images.githubusercontent.com/73910099/123876506-72ddbe80-d909-11eb-8b1c-c0a1a5050c65.png)
+
+Unfortunately there isn't much of a correlation making it hard to predict accurately, habitable planets outside of our own. 
